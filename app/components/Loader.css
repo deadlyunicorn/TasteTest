@@ -1,0 +1,60 @@
+.textCool{
+    display: flex;
+    background-color: rgb(255, 255, 255) ;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxTop{
+    z-index: 1;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.border{
+    border: transparent red;
+}
+.border1{
+    border: transparent blue;
+}
+
+.maxPage{
+    width: 100%;
+    margin-top: -2.4%;
+}
+
+
+.transparent0{
+    opacity: 0%;
+    background-color: red;
+}
+
+.transparent1{
+    opacity: 0%;
+    background-color: red;
+}
+.transparent2{
+    opacity: 100%;
+}
+
+.transparent3{
+    opacity: 100%;
+}
+
+.coolerText{
+    font-size: 50px;
+    color: white;
+    text-shadow: black 1px 1px 5px;
+    
+}
+.fitAll{
+    height: 1300px;
+}
+
+.mtop5{
+    margin-top: 50px;
+}

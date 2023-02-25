@@ -1,0 +1,278 @@
+.fullPage{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.flexDisp{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10%;
+}
+
+.widthHalf1{
+    width: 35%;
+}
+
+.widthHiso{
+    width: 500px;
+}
+.widthHalf{
+    width: 70%;
+}
+.marginBlock{
+    margin-block: 10px;
+
+
+}
+.marginRight{
+    margin-right: 5%;
+}
+.marginLeft11{
+    margin-left: 5%;
+}
+
+.centered{
+    text-align: center;
+}
+
+
+
+.centeredMore{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.centeredMore1{
+    padding-inline: 10%;
+}
+
+
+
+.coolWelc{
+    font-family: serif;
+    font-weight: 700;
+    color: blue;
+    text-shadow: 1px 1px 30px red ;
+}
+.marginTop{
+    margin-top: 2%;
+}
+.marginTop2{
+    margin-top: 5%;
+}
+
+.size1{
+    font-size: larger;
+}
+.colour1{
+    color: rgb(233, 36, 36);
+}
+
+.backColor1{
+    background-color: rgba(255, 0, 0, 0.123);
+    border-radius: 16px 12px 4px 16px;
+}
+.shadow1{
+    text-shadow: -2px 1px black;
+}
+.shadow12{
+    text-shadow: -1px 1px  cyan;
+}
+
+.moveRight{
+    text-align: right;
+}
+.moveRighter{
+    display: flex;
+    justify-content: center;
+}
+.coolButt1{
+    background-color: greenyellow;
+    border-color: transparent blueviolet black transparent;
+    border-radius: 7px;
+
+}
+
+.x{
+    color: red;
+    font-weight: bolder;
+    margin-left: 2px;
+}
+.marginBot2{
+    margin-bottom: 20px;
+}
+.underline{
+    text-decoration: underline;
+}
+
+
+.shadeBack1{
+    
+    background-color: rgba(250, 246, 6, 0.322);
+}
+.shadeBack{
+    
+    background-color: rgba(0, 0, 0, 0.322);
+}
+
+.widthText{
+    width: 300px;
+}
+.PosLeft{
+    margin-right: -40%;
+}
+.halfHeight{
+    height: 65%;
+}
+
+.marginBot{
+    margin-bottom: 2px;
+}
+.heightGame1{
+    height: 600px;
+}
+.fullHeight{
+    height: 100%;
+}
+
+.autoHeight{
+    height: auto;
+    width: auto;
+}
+
+.flexEnd{
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.flexEnd1{
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.absolPos{
+    position: absolute;
+}
+
+.border2{
+    border: transparent;
+    border-color: greenyellow;
+}
+
+.border3{
+    border: transparent;
+    border-color: rgb(0, 0, 0);
+}
+
+.smallMargin{
+    margin: 2px;
+}
+
+.goodText{
+    font-size: 30px;
+    color: greenyellow;
+    text-shadow: -1px 1px 2px black;
+}
+
+.goodText1{
+    font-size: 20px;
+    color: blue;
+    text-shadow: -1px 1px 2px black;
+
+}
+.promptHover:hover{
+    background-color: green;
+}
+
+.backgroundPage{
+    width:100%;
+    position: absolute;
+    background-image: linear-gradient(white , red);
+    z-index: -2;
+}
+
+
+.border6{
+    border: 2px solid black ;
+}
+.background1{
+    background-color: rgba(0, 255, 255, 0.13);
+    border-radius: 10px;
+    padding: 3px;
+}
+
+
+button{
+    background-color: rgba(255, 255, 255, 0.233);
+    border-radius: 12px;
+    border-color: greenyellow green green greenyellow;
+}
+button:hover{
+    background-color: rgba(238, 255, 0, 0.233);
+}
+.passButt:hover{
+    background-color: red ;
+}
+.smashButt:hover{
+    background-color: rgb(0, 245, 33);
+}
+
+img{
+    border-radius: 30px;
+}
+.border4{
+    border: solid Green;
+}
+
+.rainImage{
+    border: solid transparent   ;
+    height: 100%;
+    width:auto;
+    background-image: url("/rainImage.gif");
+}
+
+.fireworks{
+    height: max-content;
+    width:100%;
+    background-image: url("/fireworks.gif");
+
+}
+
+.border5{
+    border: solid blue;
+}
+.widthLast{
+    width: 100%;
+}
+
+.lastPage{
+    z-index: -1;
+    filter:invert(100%) ;
+    position:absolute;
+    height: fit-content;
+    width: fit-content;
+        
+}
+
+.borderGame{
+    box-shadow: 1px 1px 10px;
+    padding: 2px;
+    border-radius: 5px;
+    background-color: rgba(214, 181, 137, 0.199);
+}
+
+.borderGame1{
+    box-shadow: 1px 1px 10px;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.borderGame2{
+    box-shadow: 0px -2px 1px ;
+    padding: 4px;
+    border-radius: 5px;
+}
