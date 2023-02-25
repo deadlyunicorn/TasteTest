@@ -19,3 +19,5 @@ Remaking the APP with Next.js. (Just copy pasting the components)
 For future reference: some gifs are linked in the CSS file.
 
 ..Last note: the code is garbage. I could make it way cleaner.
+
+Initial commit was on Oct 2, 2022.
